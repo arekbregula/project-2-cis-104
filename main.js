@@ -1,7 +1,7 @@
 /**
  *  *   @author Bregula, Arkadiusz (bregula@arek.pw)
  *  *   @version 0.0.1
- *  *   @summary Project 3
+ *  *   @summary Project 2
  *  */
 
 "use strict";
