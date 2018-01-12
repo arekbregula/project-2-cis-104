@@ -1,0 +1,13 @@
+{
+  "name": "project-2-cis-104",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arekbregula/project-2-cis-104"
+  },
+  "author": "Arkadiusz Bregula"
+}
